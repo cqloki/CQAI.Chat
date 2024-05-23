@@ -1,5 +1,19 @@
 # CQAI
-基于.NET8，控制台实现的ChatGPT应用，一键部署你的私人 ChatGPT ，支持OpenAI（ChatGPT）；MoonshotAI（Kimi）；DeepSeek；等模型。
+基于.NET8，控制台实现的ChatGPT应用，一键拥有你的私人 ChatGPT ，支持OpenAI（ChatGPT）；MoonshotAI（Kimi）；DeepSeek；等模型。
 
 ![image](https://github.com/cqloki/CQAI.Chat/assets/16252603/70545cf5-dc40-4f1f-bf55-a5e0cccd3510)
 
+
+交互式对话: 与 ChatGPT 进行流畅的对话，就像和朋友聊天一样自然。
+
+控制台界面: 简洁的命令行界面，让你在任何终端都能轻松使用。
+
+如何使用 🛠️: 配置上您在平台上创建的 API Key，直接启动项目就开始聊天啦
+
+贡献指南 👨‍💻: 欢迎任何形式的贡献，无论是代码、文档还是想法。
+
+问题和反馈 🗣️: 如果你在使用过程中遇到任何问题，或者有任何建议，欢迎提交 issue 或者直接联系我。
+
+感谢 🙏: 感谢每一位对这个项目感兴趣的朋友，没有你们就没有这个项目。
+
+让我们一起构建一个更加智能和友好的聊天环境吧！🚀🤖
