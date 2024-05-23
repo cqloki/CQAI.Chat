@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using MoonshotDotnet;
 
+//首次启动比较慢，请耐心等待
 //以下两个配置必须填写正确
 
 //公开的服务地址,月之暗面：https://api.moonshot.cn
